@@ -5,8 +5,7 @@ ___
 2- Site Heroku
 3- Attention Bien lire le WIKI c'est tres important
 
-- <https://kitkatclub.herokuapp.com/> :boom:
-- <https://git.heroku.com/kitkatclub.git> :boom:
+- <https://kitkatclubjmd.herokuapp.com/> :boom:
   
 ___
 
@@ -20,27 +19,21 @@ ___
 
 - ©Jean-Baptiste DEMENET
 - slack: @Jean-Baptiste :smile:
-- ~~©Hugo CORDILLOT~~
-- ~~slack: @Hugo Cordillot~~ :imp:
 - ©Nazanin FARSHAD
 - slack: @Nazanin :smile:
 - ©Jean-Marc DARDY
 - slack: @JM :smile:
   
-### Mentor ###
-
-- Anthony Amar
-- slack: @anthonyamar :rocket:
   
-#### Projet fait grace a la formation ####
+### Projet fait grace a la formation ###
 
 [©The Hackig Project](<https://www.thehackingproject.org/fr>) :alien:
   
-##### Pour Github #####
+#### Pour Github ####
 
 - JM doit mettre en contributeur tout le monde
 - dirige toi via ton terminal dans le dossier que tu souhaites
-- git clone <https://github.com/jb1011/kitkat3.git>
+- git clone <https://github.com/JMD60260/kitkatclub>
 - cd kitkatclub
 - bundle install
 - rails db:create
@@ -55,7 +48,7 @@ ___
 - git add .
 - git commit -m "ton commentaire"
   
-##### Pour Merger #####
+#### Pour Merger ####
 
 - git checkout master
 - git pull origin master
